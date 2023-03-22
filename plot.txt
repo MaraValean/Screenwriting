@@ -1,0 +1,6 @@
+Act 1
+idea2 {Bia}
+Act 2
+idea1 {Mara}
+Act 3
+idea3 {Didi}
